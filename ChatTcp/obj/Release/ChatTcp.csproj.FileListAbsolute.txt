@@ -1,0 +1,8 @@
+F:\programming\WindowsForms\ChatTcp\ChatTcp\bin\Release\ChatTcp.exe.config
+F:\programming\WindowsForms\ChatTcp\ChatTcp\bin\Release\ChatTcp.exe
+F:\programming\WindowsForms\ChatTcp\ChatTcp\bin\Release\ChatTcp.pdb
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Release\ChatTcp.frmChat.resources
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Release\ChatTcp.Properties.Resources.resources
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Release\ChatTcp.csproj.GenerateResource.Cache
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Release\ChatTcp.exe
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Release\ChatTcp.pdb
