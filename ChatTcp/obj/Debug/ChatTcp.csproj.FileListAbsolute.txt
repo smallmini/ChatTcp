@@ -5,9 +5,15 @@ F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.Properties.Resourc
 F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.csproj.GenerateResource.Cache
 F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.exe
 F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.pdb
-F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.frmChat.resources
 F:\programming\WindowsForms\ChatTcp\ChatTcp\bin\Debug\ChatTcp.exe.manifest
 F:\programming\WindowsForms\ChatTcp\ChatTcp\bin\Debug\ChatTcp.application
-F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.csprojResolveAssemblyReference.cache
 F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.exe.manifest
 F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.application
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.Resource.resources
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.Chat.resources
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.Sound.resources
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\Interop.WMPLib.dll
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\AxInterop.WMPLib.dll
+F:\programming\WindowsForms\ChatTcp\ChatTcp\obj\Debug\ChatTcp.csproj.ResolveComReference.cache
+F:\programming\WindowsForms\ChatTcp\ChatTcp\bin\Debug\Interop.WMPLib.dll
+F:\programming\WindowsForms\ChatTcp\ChatTcp\bin\Debug\AxInterop.WMPLib.dll

@@ -16,7 +16,7 @@ namespace ChatTcp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmChat());
+            Application.Run(new Chat());
         }
     }
 }
